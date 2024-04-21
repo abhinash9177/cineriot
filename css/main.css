@@ -1972,7 +1972,7 @@ html.no-csstransitions .home-content__main {
 
   .home-logo {
     padding-top: 50px;
-	text-align: center;
+    text-align: center !important;
   }
 
 .home-content__main{
