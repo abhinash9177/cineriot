@@ -1930,6 +1930,7 @@ html.no-csstransitions .home-content__main {
 
   .home-content h3 {
     padding-left: 0;
+    text-align: left;	  
   }
 
   .home-content h3::before {
@@ -1938,6 +1939,7 @@ html.no-csstransitions .home-content__main {
 
   .home-content h1 {
     font-size: 3.3rem;
+    text-align: left;	  
   }
 
   .home-content__main {
@@ -1972,7 +1974,6 @@ html.no-csstransitions .home-content__main {
 
   .home-logo {
     padding-top: 50px;
-    text-align: center !important;
   }
 
 .home-content__main{
@@ -1984,6 +1985,7 @@ html.no-csstransitions .home-content__main {
 
   .home-content h1 {
     font-size: 3rem;
+    text-align: left;
   }
 
   .home-content__main {
@@ -1996,6 +1998,7 @@ html.no-csstransitions .home-content__main {
 
   .home-content__text p {
     font-size: 1.6rem;
+    text-align: left;
   }
 
   .home-copyright {
